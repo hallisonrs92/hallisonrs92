@@ -2,7 +2,7 @@
 - 👀 I'm interested in learning how to program.
 - 🌱 I'm currently learning to program, and some programming languages.
 - 💞️ I'm looking to collaborate on with what little I know, and learn from what you can teach me and help me.
-- 📫 How to reach me hallisonrangels@hotmail.com/harangels92 (github)
+- 📫 How to reach me hallisonrangels@hotmail.com/@harangels92 (github)
 
 Aprender programação
 <!---
